@@ -14,7 +14,7 @@ const Navbar = () => {
             <div className='relative flex-1 mx-4'>
                 <form>
                     <input type='text' placeholder='Search' className='w-full border py-2 px-4'/>
-                    <FaSearch className='absolute top-3 right-3 text-red-500' />
+                    <FaSearch className='absolute top-3 right-3 text-voilet-300' />
                 </form>
             </div>
             <div className='flex items-center space-x-4'>
@@ -30,7 +30,7 @@ const Navbar = () => {
             </div>
         </div>
         <div className='flex items-center justify-center space-x-10 py-4 text-sm font-bold'>
-            <Link to='/' className='hover:underline'>
+            <Link to='/' className='hover:underline'>      
                 Home
             </Link>
             <Link to='/' className='hover:underline'>
