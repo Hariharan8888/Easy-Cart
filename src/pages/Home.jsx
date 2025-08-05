@@ -1,6 +1,8 @@
 import React from 'react'
 import {Catagories} from '../assets/mockData'
 import Heropage1 from '../assets/Images/Heropage1.jpg'
+import InfoSection from '../components/InfoSection'
+import CategorySection from '../components/CategorySection'
 
 const Home = () => {
   return (
@@ -28,7 +30,9 @@ const Home = () => {
             </div>
           </div>
         </div>
-      </div>
+            <InfoSection />
+            <CategorySection />
+     </div>
   )
 }
 
