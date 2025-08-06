@@ -1,13 +1,13 @@
-import Image1 from "'/Images/cricketbat.jpg"
-import Image2 from "'/Images/denimshirt.jpg.jpg"
-import Image3 from "'/Images/goldwinneroil.png"
-import Image4 from "'/Images/hometheatre.jpg"
-import Image5 from "'/Images/laptop.jpg"
-import Image6 from "'/Images/phone.jpg"
-import Image7 from "'/Images/shampoo.jpg"
-import Image8 from "'/Images/shoe.jpg"
-import Image9 from "'/Images/soap.jpg"
-import Image10 from "'/Images/teacup.jpg"
+import Image1 from "./Images/cricketbat.jpg"
+import Image2 from "./Images/denimshirt.jpg"
+import Image3 from "./Images/goldwinneroil.png"
+import Image4 from "./Images/hometheatre.jpg"
+import Image5 from "./Images/laptop.jpg"
+import Image6 from "./Images/phone.jpg"
+import Image7 from "./Images/shampoo.jpg"
+import Image8 from "./Images/shoe.jpg"
+import Image9 from "./Images/soap.jpg"
+import Image10 from "./Images/teacup.jpg"
 
 
 export const Catagories = [
